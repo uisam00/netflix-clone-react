@@ -7,10 +7,10 @@
   <li>Web Services</li>
   <li>Manipulação de APIs</li>
 </ul>
-<h3> Como fica em navegador de computador:</h3>
+<h3> Como fica em navegador de computadores:</h3>
 &nbsp &nbsp <img src="./imgs/pc.gif" />
 
-<h3> Como fica em navegador de celular:</h3>
+<h3> Como fica em navegador de Smartphones:</h3>
 &nbsp &nbsp <img src="./imgs/responsive.gif" />
 
 <footer>
